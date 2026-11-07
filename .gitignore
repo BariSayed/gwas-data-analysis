@@ -1,0 +1,43 @@
+# -----------------------------------------------------------------------------
+# NO DATA IN THIS REPO — genotype/phenotype data & figures belong to the
+# course/instructor and are intentionally excluded.
+# -----------------------------------------------------------------------------
+
+# Variant / genotype data
+*.vcf
+*.vcf.gz
+*.hmp.txt
+*.ped
+*.map
+*.tped
+*.tfam
+*.bed
+*.bim
+*.fam
+*.info
+
+# GAPIT / demo-data tables
+mdp_*.txt
+mdp_*.xlsx
+
+# LD / stats / results
+*.stat.gz
+LDdecay*
+LDDecay*
+
+# Figures & documents
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.pptx
+*.docx
+*.xls
+*.xlsx
+
+# R objects / misc
+*.rds
+.Rhistory
+.DS_Store
+__pycache__/
+*.log
